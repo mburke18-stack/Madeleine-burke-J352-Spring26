@@ -1,7 +1,8 @@
 h1 {
-    background-color: black;
+    background-color: red;
     color: white;
     font-family: arial;
     font-size: 30px;
-    text-align: center;
+    border: none;
+    width: 200px;
 }
