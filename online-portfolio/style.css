@@ -1,21 +1,23 @@
 #topper {
-    background-color: aqua
-    background-image: url()
+    background-color: aqua;
 }
 
 #headshot {
-    width: 100%; 
+    width: 100%;
     border-radius: 45px;
     border: 8px solid #f0edee;
 }
 
-
-h1 {font-family: "Host-Grotesk", sans-serif;
-    letter-spacing: -.7px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: blue}
+h1 {
+  font-family: "Oi", serif;
+    letter-spacing: 0.3px;
+    color: blue;
+}
 
 .job {
-    
+    font-weight:bold;
+}
+
+img {
+    width:100%;
 }
