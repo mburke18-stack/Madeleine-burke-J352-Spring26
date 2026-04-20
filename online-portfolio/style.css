@@ -1,7 +1,12 @@
 #topper {
-    background-color: aqua;
+    background-color: #7dd4ff;
 }
-
+#navigation,
+#experience,
+#skills,
+#education {
+    background-color: #ff99d8;
+}
 #headshot {
     width: 100%;
     border-radius: 45px;
@@ -9,15 +14,40 @@
 }
 
 h1 {
-  font-family: "Oi", serif;
+    font-family: "Libre Baskerville", serif;
     letter-spacing: 0.3px;
-    color: blue;
+    color: #01591b;
+    font-size: 70px;
+}
+h2,
+h4,
+h5,
+h6,
+li {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #01591b;
+}
+
+h3 {
+    font-family: "Libre Baskerville", serif;
+    letter-spacing: 0.3px;
+    color: #01591b;
+    font-size: 35px;
+}
+
+p {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #01591b;
 }
 
 .job {
-    font-weight:bold;
+    font-weight: bold;
 }
 
 img {
-    width:100%;
+    width: 100%;
 }
